@@ -1,2 +1,4 @@
 Notepad++ ne marche pas en ouverture d'éditeur de texte
 On ajoute une phrase dans le texte
+
+Je veux voir une diff
